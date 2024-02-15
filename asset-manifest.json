@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crud-MERN/static/css/main.fb86dbd0.css",
+    "main.js": "/Crud-MERN/static/js/main.a18c14aa.js",
+    "static/js/592.cdc731aa.chunk.js": "/Crud-MERN/static/js/592.cdc731aa.chunk.js",
+    "index.html": "/Crud-MERN/index.html",
+    "main.fb86dbd0.css.map": "/Crud-MERN/static/css/main.fb86dbd0.css.map",
+    "main.a18c14aa.js.map": "/Crud-MERN/static/js/main.a18c14aa.js.map",
+    "592.cdc731aa.chunk.js.map": "/Crud-MERN/static/js/592.cdc731aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb86dbd0.css",
+    "static/js/main.a18c14aa.js"
+  ]
+}
